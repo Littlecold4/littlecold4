@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <h3 align="center">✨ About me ✨ </h3>
 <p align="center" float="left">
 
-<a href="https://ye-ryung.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link=https://www.instagram.com/ryu_ri_m/?hl=ko"/></a>
+<a href="https://dreamthedog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link=https://www.instagram.com/ryu_ri_m/?hl=ko"/></a>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlecold4&show_icons=true&theme=tokyonight) 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlecold4&layout=compact&theme=tokyonight)
